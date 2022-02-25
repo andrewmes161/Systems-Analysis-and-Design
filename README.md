@@ -1,2 +1,12 @@
 # Systems-Analysis-and-Design
 Computer Science Project for System Analysis and Design
+
+For this assignment we took on the role of a systems aanalyzer where tasked with creating various diagrams to represent a web application for an online student driver school. We were given a interview transcript from the business owner and their requirements for the application. From their we had to build, visuallize, and suggest various diagrams in order to give the development team and the client a better idea of how exactly the DrivePass app will work. 
+
+What I did well on this project was I gaining a greater understand of how to read as well as build various types of diagrams(activity, class, and sequence). I really enjoyed getting into the mindset of the user and client, and create concepts for how an application. I also think that I did a great job at in presenting the information in a well organized and easy-to-understand manner.
+
+As far as improvements go, I think I definitely need a better understanding of sequence diagrams. I found these types of diagrams rather difficult to follow, and it was one part of the project where I really was second guessing myself. I think that the best way to improve my understanding is to take a simple system, and build a small sequence diagram out of it. 
+
+Throught out this whole project, the one concept that really stood out was the importance of understand a user's needs. I think its important to realize who exactly will be using the program at the end of the day. By getting into the user's mindset and figuring out what their needs are, a designer is better equipt at build a more successful application. Without this perspective, an system becomes muddy and difficult to work with. Becoming more of a hindrance than something that increases user interaction and productivity.
+
+As for my approach to software design, I find it like any other design approach. First step is to listen to the client and figure out what are the requirements for them to see the application as successful. The you start concepting with broad strokes, and refine it gradually as the process continues. The biggest technique that really helped me was creating userstories from the notes and then breaking each story down into smaller and smaller pieces. This allowed me to undertand the steps need to implement a goal, and ensure that all of the criteria surrounding each story was met. 
